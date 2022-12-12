@@ -1,4 +1,4 @@
-# Server Creation 
+# Install Console Drivers 
 En those who have a virtual console of Ubuntu Server 18.04 LTS 
 You should install some python:
 1. ```sudo apt update```
@@ -8,12 +8,27 @@ You should install some python:
 # Extract Zip
 The first thing you should do install some programmers from your console:
 1. ```git clone https://github.com/ellaarriba132/AgenteZn.git```
-2. ```apt install unzip```
-3. ```unzip AgenteZn_Server_Scripts.zip```
+2. ```cd AgenteZn-main```
+3. ```apt install unzip```
+4. ```unzip AgenteZn_Server_Scripts.zip```
 
+# Doubts
+The first thing you must configure your server in config.py if you get an error you must have a MongoDB account you must a new account and you must create an atlas database once you have created your Cluster and press the button that says Connect and put Connect your application and press the DRIVER you must put the what python says
+and you must put the version 2.2.12 or later y te sale eso
 
+```mongodb://<username>:<password>@ac-kttp47l-shard-00-00.kxcvxmm.mongodb.net:27017,ac-kttp47l-shard-00-01.kxcvxmm.mongodb.net:27017,ajc-kttp47l-shard-00-02.kxcvxmm.mongodb.net:27017/?ssl=true&replicaSet=atlas-105154-shard-0&authSource=admin&retryWrites=true&w=majority```
 
-
+before that you must enter your username and password what you have createdwhat you have created your atlas database
+you must edit the <username> and <password> and ready
+  
+# BombSquad Server Creation
+to create the server AgenteZn put:
+1. ```cd AgenteZn-main```
+2. ```cd AgenteZn_Server_Scripts```
+3. ```chmod 777 bs_headless```
+4. ```chmod 777 bombsquad_server```
+5. ```chmod 777 config.py```
+6. ```./bombsquad_server```
 
 
 
