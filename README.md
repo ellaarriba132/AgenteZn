@@ -31,5 +31,7 @@ to create the server AgenteZn put:
 6. ```./bombsquad_server```
 
 # Owner Aggregation
-The first thing you must have owner what you have created your server look for the file some.py and look for ownerid then you must put your pb if you do not know your pb put settings>advanced>enter code>> and put the code ```getaccountid``` and put your pb to the ownerid and voila you already have owner
-
+The first thing you must have owner what you have created your server look for the file some.py and look for ownerid then you must put your pb if you do not know your pb put settings>advanced>enter code>> and put the code ```getaccountid``` and put your pb to the ownerid and voila you already have owner if you want the second owner put the command /owner (clientlist)
+  
+#Application for Admin and CO-OWNER
+To add the co-owner put the command /coowner and to add admins put the command /admin beware those commands are for the owners
