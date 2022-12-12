@@ -38,7 +38,7 @@ To add the co-owner put the command ```/coowner``` and to add admins put the com
   
 # Infinite Tickets
 For you to have your infinite ticket you must enter your MongoDB database and press the button what it says Browse Collections once you have put it in the stats button and search your pb and name and you must edit your rank of games 
-and you must look for the letter 'c' and put the number 1999999999 and ready you already have ticket info and put ```/me```
+and you must look for the letter 'p' and put the number 1999999999 and ready you already have ticket info and put ```/me```
   
   
   
