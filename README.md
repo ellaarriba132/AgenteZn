@@ -6,9 +6,9 @@ You should install some python:
 3. ```pip install datetime pymongo requests logging antispam```
 
 # Extract Zip
-The first thing you should do install some programmers from your console
-```apt install unzip```
-```unzip AgenteZn_Server_Scripts.zip```
+The first thing you should do install some programmers from your console:
+1. ```apt install unzip```
+2. ```unzip AgenteZn_Server_Scripts.zip```
 
 
 
