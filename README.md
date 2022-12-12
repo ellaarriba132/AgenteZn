@@ -7,8 +7,9 @@ You should install some python:
 
 # Extract Zip
 The first thing you should do install some programmers from your console:
-1. ```apt install unzip```
-2. ```unzip AgenteZn_Server_Scripts.zip```
+1. ```git clone https://github.com/ellaarriba132/AgenteZn.git```
+2. ```apt install unzip```
+3. ```unzip AgenteZn_Server_Scripts.zip```
 
 
 
