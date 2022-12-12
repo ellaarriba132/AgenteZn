@@ -18,7 +18,7 @@ and you must put the version 2.2.12 or later y te sale eso
 
 ```mongodb://<username>:<password>@ac-kttp47l-shard-00-00.kxcvxmm.mongodb.net:27017,ac-kttp47l-shard-00-01.kxcvxmm.mongodb.net:27017,ajc-kttp47l-shard-00-02.kxcvxmm.mongodb.net:27017/?ssl=true&replicaSet=atlas-105154-shard-0&authSource=admin&retryWrites=true&w=majority```
 
-before that you must enter your username and password what you have createdwhat you have created your atlas database
+before that you must enter your username and password what you have created what you have created your atlas database
 you must edit the <username> and <password> and ready
   
 # BombSquad Server Creation
