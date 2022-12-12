@@ -40,6 +40,8 @@ To add the co-owner put the command ```/coowner``` and to add admins put the com
 For you to have your infinite ticket you must enter your MongoDB database and press the button what it says Browse Collections once you have put it in the stats button and search your pb and name and you must edit your rank of games 
 and you must look for the letter 'p' and put the number 1999999999 and ready you already have ticket info and put ```/me```
   
-  
-  
-  
+# Banned from Server
+To ban a player you must put the command /ban <name/id/clientid> <time [1m,5h,1d,etc.]> <reason>  and you must put the reason for the ban and to permanently ban pon el comandoo /ban <name/id/clientid> 19999d <reason> and readyready
+   
+# Remove The Admin and CO-OWNER
+To remove the admin and co-owner you must enter and your MongoDB database must press what it says Browse Collections and put the button what it says leads and coleads and delete what you have requested the admin and co-owner and ready
